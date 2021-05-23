@@ -13,7 +13,7 @@ The "Real Estate Portal" was created to address the shortcomings of the traditio
 
 INSTALLATION OF SOFTWARES -
 Install JDK 1.8
-INstall Tomcat7
+Install Tomcat7
 Open browser and try url : http://127.0.0.1:8080/. To verify the proper tomcat installation
 Install xampp server
 Open browser and try url : http://127.0.0.1/phpmyadmin. To verify the proper xampp installation
